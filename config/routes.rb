@@ -1,4 +1,6 @@
 Wake::Application.routes.draw do
+  get "frontend/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
